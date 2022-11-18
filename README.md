@@ -1,2 +1,2 @@
-# DeespStream
+# DeepStream
 Deepstream Tutorials
